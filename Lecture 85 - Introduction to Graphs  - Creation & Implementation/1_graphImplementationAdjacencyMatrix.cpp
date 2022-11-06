@@ -1,4 +1,4 @@
-// Adjacency Matrix Representation fo a Graph
+// Adjacency Matrix Representation of a Graph
 #include<iostream>
 using namespace std;
 
@@ -93,7 +93,7 @@ int main(){
 	g.addEdges(2,0);
 	g.addEdges(2,1);
 
-	g.printAdjMatrix();
+	g.printAdjMatrix();	
 	
 	return 0;
 }
